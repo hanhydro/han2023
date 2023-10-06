@@ -1,0 +1,2 @@
+Loadings for A_norm in PC1:
+A_norm: -0.5670895457944145
