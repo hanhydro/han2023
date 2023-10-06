@@ -1,0 +1,2 @@
+Loadings for A_norm in PC2:
+A_norm: 0.08425289681711898
