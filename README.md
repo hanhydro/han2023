@@ -2,7 +2,7 @@
 Brief description of your project.
 
 ## Table of Contents
-- [Chapter 1](#Chapter 1)
+- [Chapter 1](#chapter1)
 - [Usage](#usage)
 - [Contribute](#contribute)
 - [Credits](#credits)
